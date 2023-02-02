@@ -1,8 +1,8 @@
 # Azure-resume
 
-My Azure resumes, following ACG Azure Cloud Resume Challenge project.
+My Azure resumes, following ACG Cloud Resume Challenge project.
 
-## Website in action
+## Site in action
 
 [View it live here]
 
