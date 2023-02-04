@@ -10,11 +10,11 @@ using Newtonsoft.Json;
 using System.Net.Http;
 using System.Text;
 
-namespace Company.Function
+namespace api
 {
-    public static class FetchResumeCounter
+    public static class FetchVisitorCounter
     {
-        [FunctionName("FetchResumeCounter")]
+        [FunctionName("FetchVisitorCounter")]
         public static HttpResponseMessage Run(
         [HttpTrigger(AuthorizationLevel.Function, "get", "post", Route = null)] HttpRequest req,
         [CosmosDB(databaseName: "AzureResume", collectionName: "Counter", ConnectionStringSetting = "AzureResumeConnectionString", Id = "1", PartitionKey = "1")] Counter counter,
