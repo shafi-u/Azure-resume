@@ -1,0 +1,12 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "AzureResumeConnectionString": "AccountEndpoint=https://shafi-u-azureresume.documents.azure.com:443/;AccountKey=YpIlnvKPMWNxr0vzIkRBOXBJiBYXEcgWWNqFZWS4EjkE2ZfMo074WGdatlBJViqqADgBHKqsTj0pACDbw38cDw==;"
+  },
+  "Host":
+  {
+    "CORS": "*"
+  }
+}
