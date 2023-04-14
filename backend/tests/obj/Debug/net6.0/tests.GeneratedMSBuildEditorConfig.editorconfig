@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = tests
-build_property.ProjectDir = c:\Users\shafi\OneDrive\Documents\GitHub\Azure-resume\backend\tests\
+build_property.ProjectDir = c:\Users\shafi\OneDrive\Documents\GitHub\azure-resume\backend\tests\
